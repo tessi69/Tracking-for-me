@@ -1,5 +1,5 @@
 # Tracking for me ...
 
 Hallo 
-das Testmodul dient zur Übersicht zum programmieren zwecks Fehlerteufel schneller zu finden.
-Fragen?
+das Testmodul dient zum tracken der programmierung
+Fragen
