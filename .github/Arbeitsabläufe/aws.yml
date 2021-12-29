@@ -24,10 +24,10 @@
 #    See the documentation for each action used below for the recommended IAM policies for this IAM user,
 #    and best practices on handling the access key credentials.
 
-name: Deploy to Amazon ECS Tracker for me
+name: Deploy to Amazon ECS Arts of Tracking
 
 on:
-  push:
+  push: 
     branches:
       - main
 
