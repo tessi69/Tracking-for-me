@@ -4,7 +4,7 @@
 
 Defcon 3 Mode 
 
-lets go ...
+Welcome ...
 #
 #
 #
